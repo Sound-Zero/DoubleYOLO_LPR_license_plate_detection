@@ -169,3 +169,4 @@ python ui_v2.py
 
 ## 其他
 https://github.com/mmastererliu/master_liu/tree/master
+免责声明：本仓库提供的代码仅用于学习、研究，请勿用于非法用途。
