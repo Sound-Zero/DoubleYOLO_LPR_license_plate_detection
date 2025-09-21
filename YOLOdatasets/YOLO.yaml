@@ -1,0 +1,9 @@
+path: ./YOLOdatasets  # dataset root dir
+train: ./train  # train set dir
+test: ./test  # test set dir
+val: ./val  # validation set dir
+
+
+# Classes
+names:
+  0: car_license_plate
